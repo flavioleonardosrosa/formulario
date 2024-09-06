@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body{
+    align-items: center;
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 10px;
+    height: 100vh;
+}
+h1{
+    color: aquamarine;
+}
+form{
+    background-color: lightgray;
+    border-radius: 10px;
+    box-shadow: 2px 0px 2px #9839b4e7;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin: 0 10px;
+    padding: 20px;
+}
+
+
+input, textarea, button{
+    background-color: #ffff;
+    border: none;
+    border-radius: 6px;
+    color: #777;
+    font-size: 18px;
+    outline: none;
+    padding: 15px;
+    width: 100%;
+}
+button{
+    color: #888;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
